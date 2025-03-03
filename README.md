@@ -1,2 +1,2 @@
-# data-structures-in-js
+# Data Structures in JavaScript
 Data Structures in JavaScript
